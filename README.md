@@ -2,7 +2,7 @@
 
 ## Prérequis
 
-- Java 11 ou supérieur
+- Java 17 ou supérieur
 - Maven
 - MySQL
 
